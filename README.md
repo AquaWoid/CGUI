@@ -1,0 +1,2 @@
+# CGUI
+Minigame Plugin
