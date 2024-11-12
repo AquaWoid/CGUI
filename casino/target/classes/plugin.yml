@@ -1,0 +1,13 @@
+name: Casino
+main: com.casino.Casino
+version: 1.21.1
+api-version: 1.21.1
+authors: [Wood]
+description: Woods all ingame Casino
+
+commands:
+  cgui:
+    description: Opens the Casino GUI
+    usage: /cgui
+    aliases: cu
+    permission: cgui
